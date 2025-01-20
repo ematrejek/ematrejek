@@ -5,6 +5,7 @@ I’m Emilia, a fifth-year student of Quantitative Methods in Economics at SGH W
 # Shortcuts
 - [Python Projects](https://github.com/ematrejek/python_projects/)
 - [Julia Projects](https://github.com/ematrejek/julia_projects/)
+- [R Projects](https://github.com/ematrejek/R_projects)
 
 ## About Me
 ### 👨‍💻 Who am I?
