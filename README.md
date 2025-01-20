@@ -25,9 +25,9 @@ I’m Emilia, a fifth-year student of Quantitative Methods in Economics at SGH W
 
 ### 🚀 Projects I'm proud of:
 
-- Credit Risk Prediction – A Comparison of Quantum and Classical Approaches
-- Simulation of Crisis Management for Natural Disasters – Monte Carlo Simulations in Julia Language
-- Statistical Analysis within the Neyman-Rubin Model with the use of Students_Performance Dataset
+- [Credit Risk Prediction – A Comparison of Quantum and Classical Approaches](https://github.com/ematrejek/python_projects/blob/main/QML_Risk_scoring.ipynb)
+- [Simulation of Crisis Management for Natural Disasters – Monte Carlo Simulations in Julia Language](https://github.com/ematrejek/julia_projects/blob/main/crisis_simulation.ipynb)
+- [Statistical Analysis within the Neyman-Rubin Model with the use of Students_Performance Dataset](https://github.com/ematrejek/python_projects/blob/main/Neyman-Rubin.ipynb)
 
 ## How to Reach Me
 ### ✉️ Contact Info:
